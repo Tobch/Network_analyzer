@@ -7,3 +7,7 @@ This project is a network security tool that analyzes network traffic for potent
 ## Installation
 1. Clone or download the project files to your local machine.
 2. Install the required Python libraries:
+
+
+
+## To Run the Application , run only the main.py file and the Application will start 
